@@ -7,6 +7,5 @@ public class Program {
         int[] result = data.SortString(s1);
         for(int arr: result)
             System.out.println(arr);
-        System.out.println("higg");
     }
 }
